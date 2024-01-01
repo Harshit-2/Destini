@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Destini-iOS13.xcodeproj/Documentation/AppBreweryBanner.png)
 
 #  Destini
 
